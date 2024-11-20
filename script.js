@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
     typeWord();
 });
 
-const words = ["beamed by roloid", "salora my pretty girl.<3", "developed by roloid - https://roloid.lol/"];
+const words = ["beamed by roloid", "hi i gutted", "developed by roloid - https://roloid.lol/"];
 let wordIndex = 0;
 let letterIndex = 0;
 const typingText = document.getElementById("typing-text");
